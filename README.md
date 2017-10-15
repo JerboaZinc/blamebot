@@ -20,8 +20,8 @@ It runs as a microservice on https://webtask.io/
     1. Customise the name and help text as required.  **who is to blame for global warming?** is a good usage hint
   
 1. Return to https://webtask.io/make and open the "Secrets" menu from the Spanner Icon in top left of edit window
-  1. Add a secret named **slack_token** with the value you obtained from slack earlier
-  1. Optionally create a secret named **forbidden** with a space-seperated list of channels that blamebot will not post in eg **general operations super_serious_channel**
+    1. Add a secret named **slack_token** with the value you obtained from slack earlier
+    1. Optionally create a secret named **forbidden** with a space-seperated list of channels that blamebot will not post in eg **general operations super_serious_channel**
   
 Visiting the webtask url  https://wt-random_alphanumerics.run.webtask.io/blamebot?token=your_slack_token should return a json-formatted list, probably empty. If you get "OK" it means your token didnt match what you stored in the secret.
   
