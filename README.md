@@ -34,7 +34,10 @@ Otherwise have fun
 **/blamebot whose to blame for millenials?**
 
 @some_user asks Blamebot
+
 whose to blame for millenials?
+
 Blamebot responds
+
 It was rising house prices although this will be officially denied
 
