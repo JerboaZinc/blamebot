@@ -29,5 +29,12 @@ Visiting the webtask url  https://wt-random_alphanumerics.run.webtask.io/blamebo
 
 **/blamebot #!reset**  will wipe all user-supplied data for this channel
 
+Otherwise have fun
 
+**/blamebot whose to blame for millenials?**
+
+@some_user asks Blamebot
+whose to blame for millenials?
+Blamebot responds
+It was rising house prices although this will be officially denied
 
