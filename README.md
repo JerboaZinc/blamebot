@@ -8,6 +8,8 @@ It runs as a microservice on https://webtask.io/
 1. Create or login to your https://webtask.io/ account
 1. Create a new, empty task (call it blamebot or whatever you like) at https://webtask.io/make
 1. Overwrite the template code with the contents of [webtask-blamebot.js](../master/webtask-blamebot.js) and save it
+    1. Optionally you can modify the lists of phrases and starting_reasons to suit your slack channel
+
 1. Copy the url of your new webtask from the bottom of the edit window it should look something like https://wt-random_alphanumerics.run.webtask.io/blamebot
 1. Create a slack slash command as per https://api.slack.com/tutorials/your-first-slash-command
     1. Give it a name **/blamebot** or whatever you choose
